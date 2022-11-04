@@ -1,0 +1,33 @@
+.footer {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+}
+.flex-footer {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  color: aliceblue;
+}
+.footer-link {
+  color: aliceblue;
+}
+.instagram {
+  background: linear-gradient(
+    to bottom right,
+    #515bd4 0%,
+    #dd2a7b 50%,
+    #f58529 90%
+  );
+  color: white;
+  border-radius: 10px;
+}
+.linkedin {
+  background-color: #0072b1;
+  color: white;
+}
+.reddit {
+  border-radius: 12px;
+  color: #ff4500;
+  background-color: rgb(255, 255, 255);
+}
